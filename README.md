@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://mahmoudhamed24.github.io/mahmoud-hamed-4/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://mahmoudhamed24.github.io/mahmoud-hamed/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
