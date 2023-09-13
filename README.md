@@ -8,10 +8,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1400F7&center=true&vCenter=true&width=440&lines=Web+development%C2%A0front%C2%A0end;Developer+apps+and+games" alt="Typing SVG" /></a>
-</p> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5004&pause=1004&color=F70924&width=435&lines=Web+Development+Front+End;Developer+%3E%3E+flutter" alt="Typing SVG" /></a>
 
-- 🏢 I'm a Software Engineer
+  - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - 👨‍💻 Check out my portfolio at https://mahmoudhamed24.github.io/Mahmoud_Hamed/ to see some of the projects I've worked on.
